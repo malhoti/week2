@@ -1059,7 +1059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 305dc9281929bca4e90dcf82d7dc4c63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveValue: {x: 0, y: 0}
+  moveValue: {x: 1, y: 0}
   speed: 1000
 --- !u!1001 &1071973373
 PrefabInstance:
